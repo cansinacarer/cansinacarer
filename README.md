@@ -4,7 +4,7 @@
 -->
 
 <a href="https://cacarer.com">
-<img src="https://img.shields.io/badge/Website-cacarer.com-red?style=flat-square">
+<img src="https://img.shields.io/badge/-cacarer.com-yellowgreen?style=flat-square&logo=Google%20Chrome&logoColor=white">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/cansinacarer/">
@@ -16,7 +16,7 @@
 </a>
 &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/-Montreal-purple?style=flat-square&logo=Google%20Maps&logoColor=white">
+<img src="https://img.shields.io/badge/-Montreal-blueviolet?style=flat-square&logo=Google%20Maps&logoColor=white">
 </a>
 &nbsp;
 <a href="#">
