@@ -3,17 +3,22 @@
     Icons:   https://simpleicons.org/
 -->
 
-# Cansin Acarer
-
 <a href="https://cacarer.com">
 <img src="https://img.shields.io/badge/Website-cacarer.com-red?style=flat-square">
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/cansinacarer/">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
+&nbsp;
 <a href="mailto:cansinacarer+github@gmail.com">
 <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/-Montreal-purple?style=flat-square&logo=Google%20Maps&logoColor=white">
+</a>
+&nbsp;
 <a href="#">
 <img src="https://komarev.com/ghpvc/?username=cansinacarer&label=Visitors&color=0e75b6&style=flat" />
 </a>
@@ -36,11 +41,11 @@
             <a href="https://github.com/cansinacarer/Offer-Decisioning-with-Machine-Learning">Offer Decisioning with Machine Learning</a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas" />
+            <img src="https://shields.io/badge/-scikit learn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn" />
             <img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy" alt="SciPy" />
+            <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas" />
             <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy" />
             <img src="https://shields.io/badge/-Flask-black?style=flat-square&logo=Flask" alt="Flask" />
-            <img src="https://shields.io/badge/-scikit learn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn" />
             <img src="https://shields.io/badge/-CD%20with%20Docker-black?style=flat-square&logo=Docker" alt="Docker" />
         </td>
     </tr>
@@ -49,10 +54,10 @@
             <a href="https://github.com/cansinacarer/Classifying-Messages-with-NLP">Classifying Tweets with Natural Language Processing</a>
         </td>
         <td>
+            <img src="https://shields.io/badge/-scikit learn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn" />
             <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas" />
             <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy" />
             <img src="https://shields.io/badge/-Flask-black?style=flat-square&logo=Flask" alt="Flask" />
-            <img src="https://shields.io/badge/-scikit learn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn" />
             <img src="https://shields.io/badge/-NLTK-black?style=flat-square" alt="Scikit-Learn" />
         </td>
     </tr>
@@ -71,9 +76,9 @@
             </a>
         </td>
         <td>
+            <img src="https://shields.io/badge/-scikit learn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn" />
             <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas" />
             <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy" />
-            <img src="https://shields.io/badge/-scikit learn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn" />
         </td>
     </tr>
     <tr>
