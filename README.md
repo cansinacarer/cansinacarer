@@ -82,7 +82,7 @@
         </td>
     </tr>
     <tr>
-        <th rowspan="5">Miscellaneous</th>
+        <th rowspan="6">Miscellaneous</th>
     </tr>
     <tr>
         <td>
@@ -122,6 +122,15 @@
             <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
             <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=PHP" alt="PHP" />
             <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL" alt="MySQL" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/cansinacarer/PowerPoint-Progress-Bar-Macro">PowerPoint Progress Bar Macro
+            </a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/VBA-black?style=flat-square&logo=Microsoft%20PowerPoint" alt="VBA" />
         </td>
     </tr>
 </table>
