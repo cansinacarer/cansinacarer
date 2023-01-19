@@ -25,7 +25,7 @@
 
 <br/>
 
-## Non-proprietary Projects
+## Open Source Projects
 
 <table style="text-align: center;">
     <tr>
@@ -139,7 +139,7 @@
 
 ## Github Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cansinacarer&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cansinacarer&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cansinacarer&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cansinacarer&theme=dracula)
