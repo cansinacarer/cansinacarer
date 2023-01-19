@@ -20,7 +20,7 @@
 </a>
 &nbsp;
 <a href="#">
-<img src="https://komarev.com/ghpvc/?username=cansinacarer&label=Visitors&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=cansinacarer&label=Visitors&color=0e75b6&style=flat-square" />
 </a>
 
 <br/>
