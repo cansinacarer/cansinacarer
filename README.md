@@ -4,25 +4,15 @@
 -->
 
 <div align="center">
-<a href="https://cacarer.com">
-<img src="https://img.shields.io/badge/-cacarer.com-yellowgreen?style=flat-square&logo=Google%20Chrome&logoColor=white">
-</a>
+<a href="https://cacarer.com"><img src="https://img.shields.io/badge/-cacarer.com-yellowgreen?style=flat-square&logo=Google%20Chrome&logoColor=white"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/cansinacarer/">
-<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
+<a href="https://www.linkedin.com/in/cansinacarer/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a>
 &nbsp;
-<a href="mailto:cansinacarer+github@gmail.com">
-<img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
+<a href="mailto:cansinacarer+github@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/-Montreal-blueviolet?style=flat-square&logo=Google%20Maps&logoColor=white">
-</a>
+<a href="#"><img src="https://img.shields.io/badge/-Montreal-blueviolet?style=flat-square&logo=Google%20Maps&logoColor=white"></a>
 &nbsp;
-<a href="#">
-<img src="https://komarev.com/ghpvc/?username=cansinacarer&label=Visitors&color=0e75b6&style=flat-square" />
-</a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=cansinacarer&label=Visitors&color=0e75b6&style=flat-square" /></a>
 
 <br/>
 
