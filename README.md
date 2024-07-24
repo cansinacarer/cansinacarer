@@ -124,6 +124,18 @@
             <img src="https://img.shields.io/badge/VBA-black?style=flat-square&logo=Microsoft%20PowerPoint" alt="VBA" />
         </td>
     </tr>
+    <tr>
+        <th rowspan="5">Self Learning Notes</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/cansinacarer/React-Learnings">My React.js Notes
+            </a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React" alt="React" />
+        </td>
+    </tr>
 </table>
 
 <br />
