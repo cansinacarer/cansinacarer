@@ -10,19 +10,71 @@
 &nbsp;
 <a href="mailto:cansinacarer+github@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/-Montreal-blueviolet?style=flat-square&logo=Google%20Maps&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Canada-blueviolet?style=flat-square&logo=Google%20Maps&logoColor=white"></a>
 &nbsp;
 <a href="#"><img src="https://komarev.com/ghpvc/?username=cansinacarer&label=Visitors&color=0e75b6&style=flat-square" /></a>
 
 <br/>
 
-## Open Source Projects
+## Public Projects
 
 <table style="text-align: center;">
     <tr>
-        <th></th>
+        <th>Category</th>
         <th>Title</th>
         <th>Technologies</th>
+    </tr>
+    <tr>
+        <th rowspan="6">Web Development</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/cansinacarer/ai-roundtable">Chrome Plugin: AI Roundtable
+            </a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/cansinacarer/Doodle-Blocker-for-Google">Chrome Plugin: Doodle Blocker
+            </a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/cansinacarer/CCA-URL-Shorten-Redirect">Wordpress Plugin: URL Shorten & Redirect
+            </a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
+            <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=PHP" alt="PHP" />
+            <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL" alt="MySQL" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/cansinacarer/Bar-Chart-Race">Bar Chart Race: Health Care Spending in OECD Countries
+            </a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/cansinacarer/IsBank-VPOS-Gateway-for-WooCommerce">WordPress Plugin: IsBank Payment Gateway for WooCommerce
+            </a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
+            <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=PHP" alt="PHP" />
+            <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL" alt="MySQL" />
+        </td>
     </tr>
     <tr>
         <th rowspan="5">Data Science</th>
@@ -73,49 +125,7 @@
         </td>
     </tr>
     <tr>
-        <th rowspan="6">Miscellaneous</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/cansinacarer/Doodle-Blocker-for-Google">Chrome Plugin: Doodle Blocker
-            </a>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/cansinacarer/CCA-URL-Shorten-Redirect">Wordpress Plugin: URL Shorten & Redirect
-            </a>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
-            <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=PHP" alt="PHP" />
-            <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL" alt="MySQL" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/cansinacarer/Bar-Chart-Race">Bar Chart Race: Health Care Spending in OECD Countries
-            </a>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/cansinacarer/IsBank-VPOS-Gateway-for-WooCommerce">WordPress Plugin: IsBank Payment Gateway for WooCommerce
-            </a>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
-            <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=PHP" alt="PHP" />
-            <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL" alt="MySQL" />
-        </td>
-    </tr>
-    <tr>
+        <th>Miscellaneous</th>
         <td>
             <a href="https://github.com/cansinacarer/PowerPoint-Progress-Bar-Macro">PowerPoint Progress Bar Macro
             </a>
@@ -125,9 +135,7 @@
         </td>
     </tr>
     <tr>
-        <th rowspan="5">Self Learning Notes</th>
-    </tr>
-    <tr>
+        <th>Self Learning Notes</th>
         <td>
             <a href="https://github.com/cansinacarer/React-Learnings">My React.js Notes
             </a>
