@@ -38,15 +38,6 @@
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/cansinacarer/Doodle-Blocker-for-Google">Chrome Plugin: Doodle Blocker
-            </a>
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/cansinacarer/CCA-URL-Shorten-Redirect">Wordpress Plugin: URL Shorten & Redirect
             </a>
         </td>
@@ -59,6 +50,16 @@
     <tr>
         <td>
             <a href="https://github.com/cansinacarer/Bar-Chart-Race">Bar Chart Race: Health Care Spending in OECD Countries
+            </a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
+            <img src="https://img.shields.io/badge/D3.js-black?style=flat-square&logo=D3.js" alt="D3.js" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/cansinacarer/Doodle-Blocker-for-Google">Chrome Plugin: Doodle Blocker
             </a>
         </td>
         <td>
