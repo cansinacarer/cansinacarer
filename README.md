@@ -185,7 +185,21 @@
         </td>
     </tr>
     <tr>
-        <th>Miscellaneous</th>
+        <th rowspan="3">Miscellaneous</th>
+        <td>
+            Utility
+        </td>
+        <td>
+            <a href="https://github.com/cansinacarer/daily-print-job">Serverless Print Job Sender</a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/AWS Lambda-black?style=flat-square&logo=AWS Lambda" alt="VBA" />
+        </td>
+        <td>
+            n/a
+        </td>
+    </tr>
+    <tr>
         <td>
             Utility
         </td>
