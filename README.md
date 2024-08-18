@@ -40,7 +40,7 @@
             <img src="https://img.shields.io/badge/Stripe-black?style=flat-square&logo=Stripe" alt="Stripe" />
             <img src="https://img.shields.io/badge/Amazon S3-black?style=flat-square&logo=Amazon S3" alt="Amazon S3" />
             <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL" alt="PostgreSQL" />
-            <img src="https://img.shields.io/badge/SQLAlchemy-black?style=flat-square&logo=SQLAlchemy" alt="SQLAlchemy" />
+            <img src="https://img.shields.io/badge/SQLAlchemy ORM-black?style=flat-square&logo=SQLAlchemy" alt="SQLAlchemy ORM" />
             <img src="https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=Bootstrap" alt="Bootstrap" />
         </td>
         </td>
