@@ -27,7 +27,7 @@
         <th>Demo/Listing</th>
     </tr>
     <tr>
-        <th rowspan="8">Web Development</th>
+        <th rowspan="8">Web Dev</th>
     </tr>
     <tr>
         <td>SaaS</td>
@@ -203,7 +203,7 @@
         </td>
     </tr>
     <tr>
-        <th rowspan="3">Miscellaneous</th>
+        <th rowspan="3">Misc</th>
         <td>
             Utility
         </td>
