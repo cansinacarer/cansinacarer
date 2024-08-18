@@ -21,7 +21,7 @@
 <table style="text-align: center;">
     <tr>
         <th>Category</th>
-        <th>Category</th>
+        <th>Subcategory</th>
         <th>Repository</th>
         <th>Technologies</th>
         <th>Demo/Listing</th>
