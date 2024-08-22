@@ -38,6 +38,7 @@
         <td>
             <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask" alt="Flask" />
             <img src="https://img.shields.io/badge/Stripe-black?style=flat-square&logo=Stripe" alt="Stripe" />
+            <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker" alt="Docker" />
             <img src="https://img.shields.io/badge/Amazon S3-black?style=flat-square&logo=Amazon S3" alt="Amazon S3" />
             <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL" alt="PostgreSQL" />
             <img src="https://img.shields.io/badge/SQLAlchemy ORM-black?style=flat-square&logo=SQLAlchemy" alt="SQLAlchemy ORM" />
