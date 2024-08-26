@@ -3,20 +3,22 @@
     Icons:   https://simpleicons.org/
 -->
 
-<div align="center">
-<a href="https://cacarer.com"><img src="https://img.shields.io/badge/-cacarer.com-yellowgreen?style=flat-square&logo=Google%20Chrome&logoColor=white"></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/cansinacarer/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a>
-&nbsp;
-<a href="mailto:cansinacarer+github@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/-Canada-blueviolet?style=flat-square&logo=Google%20Maps&logoColor=white"></a>
-&nbsp;
-<a href="#"><img src="https://komarev.com/ghpvc/?username=cansinacarer&label=Visitors&color=0e75b6&style=flat-square" /></a>
+# Cansin Acarer - Full Stack Developer
+[![My Personal Website](https://img.shields.io/badge/-cacarer.com-yellowgreen?style=flat-square&logo=Google%20Chrome&logoColor=white)](https://cacarer.com)
+[![My Linkedin Page](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cansinacarer/)
+[![Email Me](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cansinacarer+github@gmail.com)
+![Located in Canada](https://img.shields.io/badge/-Canada-blueviolet?style=flat-square&logo=Google%20Maps&logoColor=white)
 
-<br/>
+Hi there! 👋 I'm Cansin, a versatile Full Stack Developer with expertise in:
 
-## Public Projects
+- 💻 Full Stack: React, Next.js, Node.js, Flask, Django
+- 🐍 Python: Web backends, data analysis, machine learning
+- 🔧 DevOps: Docker, AWS, serverless
+- 📊 Data Science: ML, NLP, visualization
+
+I build scalable web applications, create data-driven solutions, and enjoy tackling complex challenges. Check out my projects below!
+
+## 🌟 Highlights
 
 <table style="text-align: center;">
     <tr>
@@ -236,6 +238,7 @@
 <br />
 
 ## Github Stats
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cansinacarer&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cansinacarer&theme=dracula)
