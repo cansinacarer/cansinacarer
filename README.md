@@ -45,6 +45,7 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL" alt="PostgreSQL" />
             <img src="https://img.shields.io/badge/SQLAlchemy ORM-black?style=flat-square&logo=SQLAlchemy" alt="SQLAlchemy ORM" />
             <img src="https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=Bootstrap" alt="Bootstrap" />
+            <img src="https://img.shields.io/badge/CD w/ Github Actions-black?style=flat-square&logo=Github Actions" alt="CD w/ Github Actions" />
         </td>
         <td><a href="https://base-saas-flask.apps.cansin.net/" target="_blank">Live Demo</a></td>
     </tr>
