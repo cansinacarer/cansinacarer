@@ -4,10 +4,11 @@
 -->
 
 # Cansin Acarer - Full Stack Developer
-[![My Personal Website](https://img.shields.io/badge/-cacarer.com-yellowgreen?style=flat-square&logo=Google%20Chrome&logoColor=white)](https://cacarer.com)
-[![My Linkedin Page](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cansinacarer/)
-[![Email Me](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cansinacarer+github@gmail.com)
-![Located in Canada](https://img.shields.io/badge/-Canada-blueviolet?style=flat-square&logo=Google%20Maps&logoColor=white)
+
+[![My Personal Website](https://img.shields.io/badge/cacarer.com-yellowgreen?logo=Google%20Chrome&logoColor=white)](https://cacarer.com)
+[![My Linkedin Page](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/cansinacarer/)
+[![Email Me](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:cansinacarer+github@gmail.com)
+![Located in Canada](https://img.shields.io/badge/Canada-blueviolet?logo=Google%20Maps&logoColor=white)
 
 Hi there! 👋 I'm Cansin, a versatile Full Stack Developer with expertise in:
 
@@ -38,14 +39,14 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             </a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask" alt="Flask" />
-            <img src="https://img.shields.io/badge/Stripe-black?style=flat-square&logo=Stripe" alt="Stripe" />
-            <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=Docker" alt="Docker" />
-            <img src="https://img.shields.io/badge/Amazon S3-black?style=flat-square&logo=Amazon S3" alt="Amazon S3" />
-            <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL" alt="PostgreSQL" />
-            <img src="https://img.shields.io/badge/SQLAlchemy ORM-black?style=flat-square&logo=SQLAlchemy" alt="SQLAlchemy ORM" />
-            <img src="https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=Bootstrap" alt="Bootstrap" />
-            <img src="https://img.shields.io/badge/CD w/ Github Actions-black?style=flat-square&logo=Github Actions" alt="CD w/ Github Actions" />
+            <img src="https://img.shields.io/badge/Flask-black?logo=Flask" alt="Flask" />
+            <img src="https://img.shields.io/badge/Stripe-black?logo=Stripe" alt="Stripe" />
+            <img src="https://img.shields.io/badge/Docker-black?logo=Docker" alt="Docker" />
+            <img src="https://img.shields.io/badge/Amazon S3-black?logo=Amazon S3" alt="Amazon S3" />
+            <img src="https://img.shields.io/badge/PostgreSQL-black?logo=PostgreSQL" alt="PostgreSQL" />
+            <img src="https://img.shields.io/badge/SQLAlchemy ORM-black?logo=SQLAlchemy" alt="SQLAlchemy ORM" />
+            <img src="https://img.shields.io/badge/Bootstrap-black?logo=Bootstrap" alt="Bootstrap" />
+            <img src="https://img.shields.io/badge/Github Actions-black?logo=Github Actions" alt="Github Actions" />
         </td>
         <td><a href="https://base-saas-flask.apps.cansin.net/" target="_blank">Live Demo</a></td>
     </tr>
@@ -56,9 +57,9 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             </a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
+            <img src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript" alt="Javascript" />
             <img src="https://img.shields.io/badge/PicoCSS-black?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9Ijk2MCIgdmlld0JveD0iMCAwIDEwMjAgOTYwIiB3aWR0aD0iMTAyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtNzY4LjI5NiA1NzYuODA5Yy01LjI4MSAyLjAzMS05LjQ1NSA2LjIwNS0xMS40ODcgMTEuNDg3bC03OC4xNDIgMjAzLjE3Yy02LjU3NSAxNy4wOTQtMzAuNzU5IDE3LjA5NC0zNy4zMzQgMGwtNzguMTQyLTIwMy4xN2MtMi4wMzItNS4yODItNi4yMDYtOS40NTYtMTEuNDg3LTExLjQ4N2wtMjAzLjE3LTc4LjE0MmMtMTcuMDk0LTYuNTc1LTE3LjA5NC0zMC43NiAwLTM3LjMzNGwyMDMuMTctNzguMTQyYzUuMjgxLTIuMDMyIDkuNDU1LTYuMjA2IDExLjQ4Ny0xMS40ODdsNzguMTQyLTIwMy4xN2M2LjU3NS0xNy4wOTQgMzAuNzU5LTE3LjA5NCAzNy4zMzQgMGw3OC4xNDIgMjAzLjE3YzIuMDMyIDUuMjgxIDYuMjA2IDkuNDU1IDExLjQ4NyAxMS40ODdsMjAzLjE3IDc4LjE0MmMxNy4wOTQgNi41NzUgMTcuMDk0IDMwLjc1OSAwIDM3LjMzNHoiIGZpbGw9IiNmZmJmMDAiLz48ZyBmaWxsPSIjZmY5NTAwIj48cGF0aCBkPSJtMTk4LjY2NyAzMTEuNDY2Yy02LjU3NSAxNy4wOTQtMzAuNzU5IDE3LjA5NC0zNy4zMzQgMGwtMjguMTQyLTczLjE3Yy0yLjAzMi01LjI4Mi02LjIwNi05LjQ1Ni0xMS40ODctMTEuNDg3bC03My4xNjk5LTI4LjE0MmMtMTcuMDkzOS02LjU3NS0xNy4wOTQtMzAuNzU5LS4wMDAxLTM3LjMzNGw3My4xNy0yOC4xNDJjNS4yODEtMi4wMzIgOS40NTUtNi4yMDYgMTEuNDg3LTExLjQ4N2wyOC4xNDItNzMuMTcwMWM2LjU3NS0xNy4wOTM5IDMwLjc1OS0xNy4wOTM4IDM3LjMzNCAwbDI4LjE0MiA3My4xNzAxYzIuMDMyIDUuMjgxIDYuMjA2IDkuNDU1IDExLjQ4NyAxMS40ODdsNzMuMTcgMjguMTQyYzE3LjA5NCA2LjU3NSAxNy4wOTQgMzAuNzU5IDAgMzcuMzM0bC03My4xNyAyOC4xNDJjLTUuMjgxIDIuMDMxLTkuNDU1IDYuMjA1LTExLjQ4NyAxMS40ODd6Ii8+PHBhdGggZD0ibTM1OC4yOTYgODI2LjgwOWMtNS4yODEgMi4wMzEtOS40NTUgNi4yMDUtMTEuNDg3IDExLjQ4N2wtMjguMTQyIDczLjE3Yy02LjU3NSAxNy4wOTQtMzAuNzU5IDE3LjA5NC0zNy4zMzQgMGwtMjguMTQyLTczLjE3Yy0yLjAzMi01LjI4Mi02LjIwNi05LjQ1Ni0xMS40ODctMTEuNDg3bC03My4xNy0yOC4xNDJjLTE3LjA5NC02LjU3NS0xNy4wOTQtMzAuNzYgMC0zNy4zMzRsNzMuMTctMjguMTQyYzUuMjgxLTIuMDMyIDkuNDU1LTYuMjA2IDExLjQ4Ny0xMS40ODhsMjguMTQyLTczLjE2OWM2LjU3NS0xNy4wOTQgMzAuNzU5LTE3LjA5NCAzNy4zMzQgMGwyOC4xNDIgNzMuMTY5YzIuMDMyIDUuMjgyIDYuMjA2IDkuNDU2IDExLjQ4NyAxMS40ODhsNzMuMTcgMjguMTQyYzE3LjA5NCA2LjU3NCAxNy4wOTQgMzAuNzU5IDAgMzcuMzM0eiIvPjwvZz48L3N2Zz4=" alt="PicoCSS" />
-            <img src="https://img.shields.io/badge/CD w/ Github Actions-black?style=flat-square&logo=Github Actions" alt="CD w/ Github Actions" />
+            <img src="https://img.shields.io/badge/Github Actions-black?logo=Github Actions" alt="Github Actions" />
         </td>
         <td><a href="https://chromewebstore.google.com/detail/ai-roundtable/pldlelgldijcogjpoghbkfiglajppjfc" target="_blank">See on Chrome Web Store</a></td>
     </tr>
@@ -69,9 +70,9 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             </a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
-            <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=PHP" alt="PHP" />
-            <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL" alt="MySQL" />
+            <img src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript" alt="Javascript" />
+            <img src="https://img.shields.io/badge/PHP-black?logo=PHP" alt="PHP" />
+            <img src="https://img.shields.io/badge/MySQL-black?logo=MySQL" alt="MySQL" />
         </td>
         <td>
             <a href="https://wordpress.org/plugins/cca-url-shorten-redirect/" target="_blank">See on WordPress Plugin Directory</a>
@@ -86,8 +87,8 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             </a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React" alt="React" />
-            <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js" alt="Next.js" />
+            <img src="https://img.shields.io/badge/React-black?logo=React" alt="React" />
+            <img src="https://img.shields.io/badge/Next.js-black?logo=Next.js" alt="Next.js" />
         </td>
         <td>
             n/a
@@ -100,7 +101,7 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             </a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
+            <img src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript" alt="Javascript" />
         </td>
         <td>Sold, no longer listed</td>
     </tr>
@@ -111,8 +112,8 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             </a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
-            <img src="https://img.shields.io/badge/D3.js-black?style=flat-square&logo=D3.js" alt="D3.js" />
+            <img src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript" alt="Javascript" />
+            <img src="https://img.shields.io/badge/D3.js-black?logo=D3.js" alt="D3.js" />
         </td>
         <td>
             <a href="https://observablehq.com/@cansin/health-care-spending-in-oecd-countries" target="_blank">Live Demo</a>
@@ -125,9 +126,9 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             </a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript" alt="Javascript" />
-            <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=PHP" alt="PHP" />
-            <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL" alt="MySQL" />
+            <img src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript" alt="Javascript" />
+            <img src="https://img.shields.io/badge/PHP-black?logo=PHP" alt="PHP" />
+            <img src="https://img.shields.io/badge/MySQL-black?logo=MySQL" alt="MySQL" />
         </td>
         <td>
             n/a
@@ -144,12 +145,12 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             <a href="https://github.com/cansinacarer/Offer-Decisioning-with-Machine-Learning">Offer Decisioning with Machine Learning</a>
         </td>
         <td>
-            <img src="https://shields.io/badge/-scikit learn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn" />
-            <img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy" alt="SciPy" />
-            <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas" />
-            <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy" />
-            <img src="https://shields.io/badge/-Flask-black?style=flat-square&logo=Flask" alt="Flask" />
-            <img src="https://shields.io/badge/CD%20w/%20Docker-black?style=flat-square&logo=Docker" alt="Docker" />
+            <img src="https://shields.io/badge/scikit learn-black?logo=scikit-learn" alt="Scikit-Learn" />
+            <img src="https://img.shields.io/badge/SciPy-black?logo=scipy" alt="SciPy" />
+            <img src="https://img.shields.io/badge/Pandas-black?logo=pandas" alt="Pandas" />
+            <img src="https://img.shields.io/badge/NumPy-black?logo=numpy" alt="NumPy" />
+            <img src="https://shields.io/badge/Flask-black?logo=Flask" alt="Flask" />
+            <img src="https://shields.io/badge/Docker-black?logo=Docker" alt="Docker" />
         </td>
         <td>
             <a href="https://offer-decisioning-starbucks.montreal.cansin.net/">Live Demo</a>
@@ -163,11 +164,11 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             <a href="https://github.com/cansinacarer/Classifying-Messages-with-NLP">Classifying Tweets with Natural Language Processing</a>
         </td>
         <td>
-            <img src="https://shields.io/badge/-scikit learn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn" />
-            <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas" />
-            <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy" />
-            <img src="https://shields.io/badge/-Flask-black?style=flat-square&logo=Flask" alt="Flask" />
-            <img src="https://shields.io/badge/-NLTK-black?style=flat-square" alt="Scikit-Learn" />
+            <img src="https://shields.io/badge/scikit learn-black?logo=scikit-learn" alt="Scikit-Learn" />
+            <img src="https://img.shields.io/badge/Pandas-black?logo=pandas" alt="Pandas" />
+            <img src="https://img.shields.io/badge/NumPy-black?logo=numpy" alt="NumPy" />
+            <img src="https://shields.io/badge/Flask-black?logo=Flask" alt="Flask" />
+            <img src="https://shields.io/badge/NLTK-black" alt="Scikit-Learn" />
         </td>
         <td>
             n/a
@@ -181,8 +182,8 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             <a href="https://github.com/cansinacarer/Choosing-a-Mobile-Carrier-for-Business-Phones">An Analysis to Decide on a Mobile Carrier for Business Phones</a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas" />
-            <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy" />
+            <img src="https://img.shields.io/badge/Pandas-black?logo=pandas" alt="Pandas" />
+            <img src="https://img.shields.io/badge/NumPy-black?logo=numpy" alt="NumPy" />
         </td>
         <td>
             n/a
@@ -197,9 +198,9 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             </a>
         </td>
         <td>
-            <img src="https://shields.io/badge/-scikit learn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn" />
-            <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas" alt="Pandas" />
-            <img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy" alt="NumPy" />
+            <img src="https://shields.io/badge/scikit learn-black?logo=scikit-learn" alt="Scikit-Learn" />
+            <img src="https://img.shields.io/badge/Pandas-black?logo=pandas" alt="Pandas" />
+            <img src="https://img.shields.io/badge/NumPy-black?logo=numpy" alt="NumPy" />
         </td>
         <td>
             n/a
@@ -214,7 +215,7 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             <a href="https://github.com/cansinacarer/daily-print-job">Serverless Print Job Sender</a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/AWS Lambda-black?style=flat-square&logo=AWS Lambda" alt="VBA" />
+            <img src="https://img.shields.io/badge/AWS Lambda-black?logo=AWS Lambda" alt="VBA" />
         </td>
         <td>
             n/a
@@ -229,7 +230,7 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             </a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/VBA-black?style=flat-square&logo=Microsoft%20PowerPoint" alt="VBA" />
+            <img src="https://img.shields.io/badge/VBA-black?logo=Microsoft%20PowerPoint" alt="VBA" />
         </td>
         <td>
             n/a
@@ -240,6 +241,7 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
 <br />
 
 ## Github Stats
+
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cansinacarer&theme=dracula)
