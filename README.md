@@ -153,7 +153,7 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             <img src="https://shields.io/badge/Docker-black?logo=Docker" alt="Docker" />
         </td>
         <td>
-            <a href="https://offer-decisioning-starbucks.montreal.cansin.net/">Live Demo</a>
+            <a href="https://offer-decisioning-starbucks.apps.cansin.net/">Live Demo</a>
         </td>
     </tr>
     <tr>
