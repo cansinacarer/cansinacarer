@@ -30,7 +30,7 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
         <th>Demo/Listing</th>
     </tr>
     <tr>
-        <th rowspan="8">Web Dev</th>
+        <th rowspan="9">Web Dev</th>
     </tr>
     <tr>
         <td>Full-Stack</td>
@@ -95,6 +95,16 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
         </td>
     </tr>
     <tr>
+        <td>DotDigital Plugin</td>
+        <td>
+            <a href="https://github.com/cansinacarer/DotDigital-Editor-Extension-for-Google-Promo-Tab-Annotations">Google Promo Tab Annotation Blocks</a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/Python-black?logo=Python" alt="Python" />
+        </td>
+        <td>n/a</td>
+    </tr>
+    <tr>
         <td>Chrome Plugin</td>
         <td>
             <a href="https://github.com/cansinacarer/Doodle-Blocker-for-Google">Doodle Blocker
@@ -114,9 +124,10 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
         <td>
             <img src="https://img.shields.io/badge/JavaScript-black?logo=JavaScript" alt="Javascript" />
             <img src="https://img.shields.io/badge/D3.js-black?logo=D3.js" alt="D3.js" />
+            <img src="https://img.shields.io/badge/Python-black?logo=Python" alt="Python" />
         </td>
         <td>
-            <a href="https://observablehq.com/@cansin/health-care-spending-in-oecd-countries" target="_blank">Live Demo</a>
+            <a href="https://observablehq.com/@cansin/health-care-spending-in-oecd-countries" target="_blank">D3.js Demo</a>
         </td>
     </tr>
     <tr>
