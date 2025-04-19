@@ -42,11 +42,13 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             <img src="https://img.shields.io/badge/Flask-black?logo=Flask" alt="Flask" />
             <img src="https://img.shields.io/badge/Stripe-black?logo=Stripe" alt="Stripe" />
             <img src="https://img.shields.io/badge/Docker-black?logo=Docker" alt="Docker" />
-            <img src="https://img.shields.io/badge/Amazon S3-black?logo=Amazon S3" alt="Amazon S3" />
             <img src="https://img.shields.io/badge/PostgreSQL-black?logo=PostgreSQL" alt="PostgreSQL" />
-            <img src="https://img.shields.io/badge/SQLAlchemy ORM-black?logo=SQLAlchemy" alt="SQLAlchemy ORM" />
-            <img src="https://img.shields.io/badge/Bootstrap-black?logo=Bootstrap" alt="Bootstrap" />
+            <img src="https://img.shields.io/badge/ORM-black?logo=SQLAlchemy" alt="ORM" />
+            <img src="https://img.shields.io/badge/Amazon S3-black?logo=Amazon S3" alt="Amazon S3" />
             <img src="https://img.shields.io/badge/Github Actions-black?logo=Github Actions" alt="Github Actions" />
+            <img src="https://img.shields.io/badge/Semantic Release-black?logo=semantic-release" alt="Semantic Release" />
+            <img src="https://img.shields.io/badge/Pre Commit-black?logo=precommit" alt="Pre Commit" />
+            <img src="https://img.shields.io/badge/Dev Containers-black?logo=Docker" alt="Dev Containers" />
         </td>
         <td><a href="https://base-saas-flask.apps.cansin.net/" target="_blank">Live Demo</a></td>
     </tr>
