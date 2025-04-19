@@ -53,7 +53,7 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
         <td><a href="https://base-saas-flask.apps.cansin.net/" target="_blank">Live Demo</a></td>
     </tr>
     <tr>
-        <td>Chrome Plugin</td>
+        <td>Chrome Extension</td>
         <td>
             <a href="https://github.com/cansinacarer/ai-roundtable">AI Roundtable
             </a>
@@ -107,7 +107,7 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
         <td>n/a</td>
     </tr>
     <tr>
-        <td>Chrome Plugin</td>
+        <td>Chrome Extension</td>
         <td>
             <a href="https://github.com/cansinacarer/Doodle-Blocker-for-Google">Doodle Blocker
             </a>
