@@ -50,7 +50,12 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             <img src="https://img.shields.io/badge/Pre%20Commit-black?logo=precommit" alt="Pre Commit" />
             <img src="https://img.shields.io/badge/Dev%20Containers-black?logo=Docker" alt="Dev Containers" />
         </td>
-        <td><a href="https://base-saas-flask.apps.cansin.net/" target="_blank">Live Demo</a></td>
+        <td>
+            <a href="" target="_blank">Documentation</a>
+            <br />
+            <br />
+            <a href="https://base-saas-flask.apps.cansin.net/" target="_blank">Live Demo</a>
+        </td>
     </tr>
     <tr>
         <td>Chrome Extension</td>
