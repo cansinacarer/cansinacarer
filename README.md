@@ -49,6 +49,7 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             <img src="https://img.shields.io/badge/Semantic%20Release-black?logo=semantic-release" alt="Semantic Release" />
             <img src="https://img.shields.io/badge/Pre%20Commit-black?logo=precommit" alt="Pre Commit" />
             <img src="https://img.shields.io/badge/Dev%20Containers-black?logo=Docker" alt="Dev Containers" />
+            <img src="https://img.shields.io/badge/Sphinx%20AutoAPI-black?logo=Sphinx" alt="Sphinx AutoAPI" />
         </td>
         <td>
             <a href="https://cansinacarer.github.io/My-Base-SaaS-Flask/" target="_blank">Documentation</a>
