@@ -264,7 +264,11 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cansinacarer&theme=dracula)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cansinacarer&theme=dracula)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cansinacarer&theme=dracula)
+
+![](https://github-profile-trophy.vercel.app/?username=cansinacarer&theme=onedark&column=7&margin-w=15&no-frame=true&no-bg=true&rank=-C,-?)
 
 </div>
