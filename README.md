@@ -234,7 +234,7 @@ I build scalable web applications, create data-driven solutions, and enjoy tackl
             <a href="https://github.com/cansinacarer/daily-print-job">Serverless Print Job Sender</a>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/AWS%20Lambda-black?logo=AWS Lambda" alt="AWS Lambda" />
+            <img src="https://img.shields.io/badge/AWS%20Lambda-black?logo=AWS%20Lambda" alt="AWS Lambda" />
         </td>
         <td>
             n/a
