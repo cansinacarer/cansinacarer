@@ -3,21 +3,19 @@
     Icons:   https://simpleicons.org/
 -->
 
-# Cansin Acarer - Full Stack Developer
+# Cansin Acarer <i><small>, MSc</small></i>
 
 [![My Personal Website](https://img.shields.io/badge/cacarer.com-yellowgreen?logo=Google%20Chrome&logoColor=white)](https://cacarer.com)
 [![My Linkedin Page](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/cansinacarer/)
 [![Email Me](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:cansinacarer+github@gmail.com)
-![Located in Canada](https://img.shields.io/badge/Canada-blueviolet?logo=Google%20Maps&logoColor=white)
+![Located in Toronto](https://img.shields.io/badge/Toronto,%20ON-blueviolet?logo=Google%20Maps&logoColor=white)
 
-Hi there! 👋 I'm Cansin, a versatile Full Stack Developer with expertise in:
+Hi there! 👋 I'm Cansin, a versatile developer with experience in:
 
-- 💻 Full Stack: React, Next.js, Node.js, Flask, Django
-- 🐍 Python: Web backends, data analysis, machine learning
-- 🔧 DevOps: Docker, AWS, serverless
-- 📊 Data Science: ML, NLP, visualization
-
-I build scalable web applications, create data-driven solutions, and enjoy tackling complex challenges. Check out my projects below!
+- ⚙️ Back-end: Node.js, [Flask](https://github.com/search?q=owner%3Acansinacarer%20topic%3Aflask&type=repositories), Django, [Event-driven microservices](https://github.com/search?q=owner%3Acansinacarer+topic%3Aevent-driven-microservices&type=repositories)
+- 💻 Front-end: React, Astro, Vite
+- 🔧 DevOps: [Docker](https://github.com/search?q=owner%3Acansinacarer+topic%3Aevent-driven-microservices&type=repositories), [CI/CD](https://github.com/search?q=owner%3Acansinacarer+topic%3Acontinuous-deployment&type=repositories), Infrastructure as code w/ AWS CDK, [Sphinx AutoAPI](https://github.com/search?q=owner%3Acansinacarer+topic%3Asphinx-autoapi&type=repositories)
+- 📊 Data Science: [Machine learning](https://github.com/search?q=owner%3Acansinacarer+topic%3Amachine-learning&type=repositories), [Data visualization](https://github.com/search?q=owner%3Acansinacarer+topic%3Adata-visualization&type=repositories)
 
 ## 🌟 Highlights
 
