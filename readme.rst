@@ -15,6 +15,7 @@ Cansin Acarer
    :alt: Email Me
 
 .. image:: https://img.shields.io/badge/📍-Toronto,%20ON-blue?style=flat&color=orange&labelColor=0d1117
+   :target: #
    :alt: Located in Toronto
 
 |
