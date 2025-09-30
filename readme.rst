@@ -29,15 +29,18 @@ Hi there! 👋 I'm Cansin, a versatile developer with experience in:
 
 |
 
-Mail List Shield
-================
+⭐ Highlights
+==============
 
-A production-grade SaaS, providing email validation service with event-driven microservices.
+Mail List Shield
+----------------
 
 `Repository <https://github.com/cansinacarer/maillistshield-com?tab=readme-ov-file#readme>`__ |
 `API Docs <https://documenter.getpostman.com/view/39218943/2sB3QDxDUr>`_ |
 `Developer Docs <https://cansinacarer.github.io/My-Base-SaaS-Flask/>`_ |
 `maillistshield.com <https://maillistshield.com>`_
+
+A production-grade SaaS, providing email validation service with event-driven microservices.
 
 
 .. list-table::
@@ -52,27 +55,8 @@ A production-grade SaaS, providing email validation service with event-driven mi
 
 |
 
-Offer Decisioning with a Machine Learning Model
-===============================================
-
-`Model Development Notebook <https://github.com/cansinacarer/Offer-Decisioning-with-Machine-Learning/blob/main/Starbucks_Offer_Decisioning.ipynb>`__ |
-`Repository <https://github.com/cansinacarer/Offer-Decisioning-with-Machine-Learning>`__ |
-`Live Demo <https://offer-decisioning-starbucks.apps.cansin.net/>`__
-
-Machine learning model development and deployment for deciding best offer based on customer attributes.
-
-
-.. list-table::
-    :widths: 15 85
-    :align: left
-
-    * - Tech stack
-      - |scikit-learn| |scipy| |pandas| |numpy| |flask| |docker|
-
-|
-
 AI Roundtable
-=============
+-------------
 
 `Repository <https://github.com/cansinacarer/ai-roundtable>`__ |
 `Chrome Web Store <https://chromewebstore.google.com/detail/ai-roundtable/pldlelgldijcogjpoghbkfiglajppjfc>`_
@@ -89,6 +73,25 @@ A Chrome extension for asking a question to multiple AI chatbots at once.
 
     * - DX
       - |github-actions| |semantic-release|
+
+|
+
+Offer Decisioning with a Machine Learning Model
+-----------------------------------------------
+
+`Model Development Notebook <https://github.com/cansinacarer/Offer-Decisioning-with-Machine-Learning/blob/main/Starbucks_Offer_Decisioning.ipynb>`__ |
+`Repository <https://github.com/cansinacarer/Offer-Decisioning-with-Machine-Learning>`__ |
+`Live Demo <https://offer-decisioning-starbucks.apps.cansin.net/>`__
+
+Machine learning model development and deployment for deciding best offer based on customer attributes.
+
+
+.. list-table::
+    :widths: 15 85
+    :align: left
+
+    * - Tech stack
+      - |scikit-learn| |scipy| |pandas| |numpy| |flask| |docker|
 
 |
 
