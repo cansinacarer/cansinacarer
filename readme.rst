@@ -10,11 +10,11 @@ Cansin Acarer
    :target: https://www.linkedin.com/in/cansinacarer/
    :alt: My Linkedin Page
 
-.. image:: https://img.shields.io/badge/✉️-Email-red?style=flat&color=purple&labelColor=0d1117
+.. image:: https://img.shields.io/badge/✉️-Email-red?style=flat&color=orange&labelColor=0d1117
    :target: mailto:cansinacarer+github@gmail.com
    :alt: Email Me
 
-.. image:: https://img.shields.io/badge/📍-Toronto,%20ON-blue?style=flat&color=orange&labelColor=0d1117
+.. image:: https://img.shields.io/badge/📍-Toronto,%20ON-blue?style=flat&color=purple&labelColor=0d1117
    :target: #
    :alt: Located in Toronto
 
