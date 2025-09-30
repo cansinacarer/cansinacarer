@@ -34,7 +34,7 @@ Mail List Shield
 
 A production-grade SaaS, providing email validation service with event-driven microservices.
 
-`Repository <https://github.com/cansinacarer/maillistshield-com?tab=readme-ov-file>`__ |
+`Repository <https://github.com/cansinacarer/maillistshield-com?tab=readme-ov-file#readme>`__ |
 `API Docs <https://documenter.getpostman.com/view/39218943/2sB3QDxDUr>`_ |
 `Developer Docs <https://cansinacarer.github.io/My-Base-SaaS-Flask/>`_ |
 `maillistshield.com <https://maillistshield.com>`_
