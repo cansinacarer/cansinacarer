@@ -2,19 +2,19 @@
 Cansin Acarer
 =============
 
-.. image:: https://img.shields.io/badge/🌎%20Personal%20Website-red
+.. image:: https://img.shields.io/badge/🌎-Personal%20Website-red?style=flat-square&color=222222&labelColor=black
    :target: https://cacarer.com
    :alt: My Personal Website
 
-.. image:: https://img.shields.io/badge/💼%20Linkedin-blue
+.. image:: https://img.shields.io/badge/💼-Linkedin-blue?style=flat-square&color=222222&labelColor=black
    :target: https://www.linkedin.com/in/cansinacarer/
    :alt: My Linkedin Page
 
-.. image:: https://img.shields.io/badge/✉️%20Email-red
+.. image:: https://img.shields.io/badge/✉️-Email-red?style=flat-square&color=222222&labelColor=black
    :target: mailto:cansinacarer+github@gmail.com
    :alt: Email Me
 
-.. image:: https://img.shields.io/badge/📍%20Toronto,%20ON-blue
+.. image:: https://img.shields.io/badge/📍-Toronto,%20ON-blue?style=flat-square&color=222222&labelColor=black
    :target: https://www.google.com/maps/place/Toronto,+ON
    :alt: Located in Toronto
 
