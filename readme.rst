@@ -14,9 +14,9 @@ Cansin Acarer
    :target: mailto:cansinacarer+github@gmail.com
    :alt: Email Me
 
-.. image:: https://img.shields.io/badge/📍-Toronto,%20ON-blue?style=flat&color=purple&labelColor=0d1117
+.. image:: https://img.shields.io/badge/📍-San%20Francisco,%20CA-blue?style=flat&color=purple&labelColor=0d1117
    :target: #
-   :alt: Located in Toronto
+   :alt: Located in San Francisco
 
 |
 
