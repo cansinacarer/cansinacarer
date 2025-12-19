@@ -150,11 +150,9 @@ Machine learning model development and deployment for deciding best offer based 
 GitHub Stats
 ============
 
-.. image:: https://github-profile-trophy.vercel.app/?username=cansinacarer&theme=onedark&column=7&margin-w=15&no-frame=true&no-bg=true&rank=-C,-?
-
 .. list-table::
 
-   * - .. image:: https://github-readme-streak-stats.herokuapp.com/?user=cansinacarer&theme=dracula
+   * - .. image:: https://streak-stats.demolab.com/?user=cansinacarer&theme=dracula
 
 .. list-table::
 
