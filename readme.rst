@@ -152,7 +152,7 @@ GitHub Stats
 
 .. list-table::
 
-   * - .. image:: https://streak-stats.demolab.com/?user=cansinacarer&theme=dracula
+   * - .. image:: https://github-streak-stats.cansin.net/?user=cansinacarer&theme=dracula
 
 .. list-table::
 
