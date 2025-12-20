@@ -160,8 +160,8 @@ GitHub Stats
 
 .. list-table::
 
-   * - .. image:: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cansinacarer&theme=dracula
-     - .. image:: https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cansinacarer&theme=dracula
+   * - .. image:: https://github-profile-summary-cards.cansin.net/api/cards/most-commit-language?username=cansinacarer&theme=dracula
+     - .. image:: https://github-profile-summary-cards.cansin.net/api/cards/repos-per-language?username=cansinacarer&theme=dracula
 
 
 .. |flask| image:: https://img.shields.io/badge/Flask-black?logo=Flask
