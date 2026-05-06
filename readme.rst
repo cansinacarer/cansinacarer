@@ -94,11 +94,11 @@ A Chrome extension for asking a question to multiple AI chatbots at once.
    * - Full-Stack
      - `My SaaS Starter with Flask <https://github.com/cansinacarer/my-base-saas-flask>`_
      - |flask| |stripe| |docker| |postgresql| |orm| |s3| |github-actions| |semantic-release| |pre-commit| |dev-containers| |sphinx-autoapi|
-     - `Documentation <https://cansinacarer.github.io/My-Base-SaaS-Flask/>`_ | `Live Demo <https://base-saas-flask.apps.cansin.net/>`__
+     - `Documentation <https://cansinacarer.github.io/My-Base-SaaS-Flask/>`_ | `Live Demo <https://base-saas-flask.apps.cansin.net/>`_
    * - Data Science
      - `Offer Decisioning with a Machine Learning Model <https://github.com/cansinacarer/Classifying-Messages-with-NLP>`_
      - |scikit-learn| |scipy| |pandas| |numpy| |flask| |docker|
-     - `Model Development Notebook <https://github.com/cansinacarer/Offer-Decisioning-with-Machine-Learning/blob/main/Starbucks_Offer_Decisioning.ipynb>`__ | Repository <https://github.com/cansinacarer/Offer-Decisioning-with-Machine-Learning>`__ | `Live Demo <https://offer-decisioning-starbucks.apps.cansin.net/>`__
+     - `Model Development Notebook <https://github.com/cansinacarer/Offer-Decisioning-with-Machine-Learning/blob/main/Starbucks_Offer_Decisioning.ipynb>`_ | `Repository <https://github.com/cansinacarer/Offer-Decisioning-with-Machine-Learning>`_ | `Live Demo <https://offer-decisioning-starbucks.apps.cansin.net/>`_
    * - Data Science
      - `Classifying Tweets with Natural Language Processing <https://github.com/cansinacarer/Classifying-Messages-with-NLP>`_
      - |scikit-learn| |pandas| |numpy| |flask| |nltk|
