@@ -128,10 +128,6 @@ Machine learning model development and deployment for deciding best offer based 
      - `URL Shorten & Redirect <https://github.com/cansinacarer/CCA-URL-Shorten-Redirect>`_
      - |javascript| |php| |mysql|
      - `WordPress Plugin Directory <https://wordpress.org/plugins/cca-url-shorten-redirect/>`_
-   * - Self Learning Notes
-     - `My React.js & Next.js Notes <https://github.com/cansinacarer/React-Learnings>`_
-     - |react| |nextjs|
-     - n/a
    * - DotDigital Plugin
      - `Google Promo Tab Annotation Blocks <https://github.com/cansinacarer/DotDigital-Editor-Extension-for-Google-Promo-Tab-Annotations>`_
      - |python|
