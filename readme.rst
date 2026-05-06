@@ -20,12 +20,14 @@ Cansin Acarer
 
 |
 
-Hi there! 👋 I'm Cansin, a versatile developer with experience in:
+Hi 👋 I'm Cansin. Full-stack engineer — I ship end-to-end, from backend to frontend to infra. Side projects here include a production SaaS I designed, built, and operate solo. In my day job, I work with teams to build martech systems.
 
-- ⚙️ Back-end: `Flask <https://github.com/search?q=owner%3Acansinacarer%20topic%3Aflask&type=repositories>`_, Django, Node.js, `Event-driven microservices <https://github.com/search?q=owner%3Acansinacarer+topic%3Aevent-driven-microservices&type=repositories>`_
-- 💻 Front-end: React, Astro, Tailwind, DaisyUI, Bootstrap
-- 🔧 DevOps: `Docker <https://github.com/search?q=owner%3Acansinacarer+topic%3Aevent-driven-microservices&type=repositories>`_, `CI/CD <https://github.com/search?q=owner%3Acansinacarer+topic%3Acontinuous-deployment&type=repositories>`_, Infrastructure as code w/ AWS CDK, `Sphinx AutoAPI <https://github.com/search?q=owner%3Acansinacarer+topic%3Asphinx-autoapi&type=repositories>`_
-- 📊 Data Science: `Machine learning <https://github.com/search?q=owner%3Acansinacarer+topic%3Amachine-learning&type=repositories>`_, `Data visualization <https://github.com/search?q=owner%3Acansinacarer+topic%3Adata-visualization&type=repositories>`_
+I work with:
+
+- ⚙️ Back-end: `Flask <https://github.com/search?q=owner%3Acansinacarer%20topic%3Aflask&type=repositories>`_, `SQLAlchemy + Postgres <https://github.com/search?q=owner%3Acansinacarer+topic%3Aobject-relational-mapping&type=repositories>`_, `RabbitMQ <https://github.com/search?q=owner%3Acansinacarer+topic%3Arabbitmq&type=repositories>`_, Node.js, `Event-driven microservices <https://github.com/search?q=owner%3Acansinacarer+topic%3Aevent-driven-microservices&type=repositories>`_
+- 💻 Front-end: React, Astro, Tailwind
+- 🔧 DevOps: `Docker <https://github.com/search?q=owner%3Acansinacarer+topic%3Adocker&type=repositories>`_, `CI/CD <https://github.com/search?q=owner%3Acansinacarer+topic%3Acontinuous-deployment&type=repositories>`_, `Automated documentation pipelines (Sphinx AutoAPI) <https://github.com/search?q=owner%3Acansinacarer+topic%3Asphinx-autoapi&type=repositories>`_
+- 📊 Earlier work: `Machine learning <https://github.com/search?q=owner%3Acansinacarer+topic%3Amachine-learning&type=repositories>`_, `Data visualization <https://github.com/search?q=owner%3Acansinacarer+topic%3Adata-visualization&type=repositories>`_
 
 |
 
